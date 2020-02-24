@@ -1,4 +1,5 @@
 # 写在前面
+此项目copy与https://github.com/qingshuisiyuan/electron-ssr-backup
 原作者（不具名）于2019年5月15日删除了并停止开发这个伟大的项目，不管因为什么原因，我们都应该感谢原作者的付出，希望有缘再见！
 
 ## 使用时注意事项：
